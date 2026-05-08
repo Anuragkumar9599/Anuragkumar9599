@@ -1,145 +1,132 @@
-<h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
-
-<h3 align="center">
-Data Analyst • Front-End Developer • Python Enthusiast
-</h3>
+<h1 align="center">Hey there, I'm Anurag Kumar 👋</h1>
 
 <p align="center">
-Passionate about transforming data into meaningful insights and building modern interactive applications.
+  <em>Data Analyst · Python Enthusiast · Dashboard Builder</em>
+</p>
+
+<p align="center">
+  <a href="mailto:anuragmaurya.cse@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="tel:+917367829599"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
 
-<div align="center">
+## 🧑‍💻 About Me
 
-<img src="https://komarev.com/ghpvc/?username=Anuragkumar9599&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+```python
+anurag = {
+    "role"       : "Data Analyst",
+    "education"  : "B.Tech CSE @ Parul University (2022–2026)",
+    "cgpa"       : 7.68,
+    "location"   : "Vadodara, Gujarat, India",
+    "passions"   : ["Data Cleaning", "ETL Pipelines", "Interactive Dashboards"],
+    "currently"  : "Turning raw data into actionable insights 📊"
+}
+```
 
-</div>
-
----
-
-# 🚀 About Me
-
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🎓 B.Tech CSE Graduate (2022–2026)
-
-- 📊 Focused on **Data Analytics, Dashboards, ETL & Visualization**
-
-- 💻 Building projects using **Python, Streamlit, Power BI & MERN Stack**
-
-- 🌱 Currently learning **Machine Learning & Advanced Analytics**
-
-- ⚡ Love solving real-world problems using data
-
-- 📍 Gujarat, India
-
-<br><br><br><br><br><br>
+> Computer Science graduate specialising in Data Analysis — experienced in building automated pipelines, interactive dashboards, and translating messy datasets into clear business narratives.
 
 ---
 
-# 🌐 Connect With Me
+## 🛠️ Tech Stack
+
+**Languages & Databases**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+**Tools & Platforms**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+
+---
+
+## 💼 Experience
+
+### 📊 Data Analyst Intern — TechnoHacks Solutions *(Remote)*
+`January 2026 – April 2026`
+
+- 🔍 Processed and analysed **3,900+ customer transaction records** to uncover shopping patterns, customer segments, and revenue trends
+- 🧹 Performed data cleaning, missing-value handling, feature engineering, and column standardisation to boost dataset quality
+- 📈 Built interactive **Power BI dashboards** visualising KPIs — revenue trends, product performance, and customer demographics
+
+---
+
+## 🚀 Projects
+
+### 🌍 Tour & Travel Website *(MERN Stack)*
+> A full-stack travel application with destination listings, booking flow, and a dynamic UI
+- **React.js** frontend with dynamic routing and booking flow
+- **Node.js + Express.js** REST APIs for backend logic
+- Seamless integration between client and server layers
+
+---
+
+### 📊 AutoDash — Automatic Dashboard *(Python)*
+> Automated pipeline that turns any dataset into an interactive visual report in seconds
+- Automated **data cleaning & preprocessing** pipeline
+- **Streamlit** for rich, interactive dashboards and visual reports
+- **MongoDB** integration for efficient dataset storage and retrieval
+
+---
+
+## 🏆 Certifications & Achievements
+
+| 🏅 Credential | 🏢 Issuer | 📅 Date |
+|---|---|---|
+| Computer Networks & Internet Protocol | NPTEL | Jan – Apr 2024 |
+| Data Analytics Job Simulation | Deloitte | Jul 2025 |
+| Oracle Cloud Infrastructure GenAI Professional | Oracle University | Oct 2025 |
+| SQL Basic Course | Newton School | Jul 2025 |
+| Simverse Hackathon 2025 | VIT-AP | 2025 |
+| DataQuest 2026 | IIT Kharagpur | 2026 |
+
+---
+
+## 📚 Education
+
+**Bachelor of Technology — Computer Science & Engineering**
+🎓 Parul University, Vadodara, Gujarat · `2022 – 2026`
+📌 CGPA: **7.68 / 10**
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-<a href="https://www.linkedin.com/in/anurag-kumar-199bb7352/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="mailto:anuragmaurya.cse@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-<a href="https://github.com/Anuragkumar9599" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="https://leetcode.com/anuragkumar9599/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode" height="50"/>
-</a>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 💻 Tech Stack
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views"/>
+</p>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,mongodb,mysql,postgresql,git,github,vscode" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-</div>
-
----
-
-# 📌 Featured Projects
-
-<div align="center">
-
-| Project | Description |
-|---|---|
-| 🚀 **AutoDash** | Automated Dashboard System with Data Cleaning, Visualization, Streamlit & MongoDB |
-| 🌍 **Tour & Travel Website** | Full Stack MERN Application with Booking Flow & Dynamic UI |
-| 📊 **Data Analytics Projects** | ETL Pipelines, KPI Dashboards & Business Insights using Python |
-
-</div>
-
----
-
-# 🏆 Certifications
-
-<div align="center">
-
-🥇 Oracle Cloud Infrastructure 2025 Certified GenAI Professional  
-🥇 Deloitte Data Analytics Job Simulation  
-🥇 NPTEL Computer Networks & Internet Protocol  
-🥇 Simverse Hackathon 2025 – VIT AP  
-🥇 DataQuest 2026 – IIT Kharagpur  
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anuragkumar9599&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragkumar9599&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkumar9599&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# ⚡ Fun Fact
-
-<div align="center">
-
-### “Turning raw data into impactful insights.”
-
-</div>
+<p align="center">
+  <em>"Data is the new oil — I'm here to refine it. ⚡"</em>
+</p>
