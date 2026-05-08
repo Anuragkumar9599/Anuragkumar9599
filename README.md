@@ -1,125 +1,145 @@
-# Hi 👋, I'm Anurag Kumar
+<h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
 
-## 🚀 Data Analyst | Front-End Developer | CSE Graduate
+<h3 align="center">
+Data Analyst • Front-End Developer • Python Enthusiast
+</h3>
 
-💡 Passionate about Data Analytics, Dashboard Development, and Building Interactive Web Applications.
-
-🎓 B.Tech CSE Graduate (2022–2026) from Parul University, Gujarat.
-
-📊 Skilled in Python, Power BI, Streamlit, SQL, Pandas, NumPy, and Data Visualization.
-
-🌱 Currently exploring Machine Learning, Advanced Analytics, and Full Stack Development.
+<p align="center">
+Passionate about transforming data into meaningful insights and building modern interactive applications.
+</p>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Anuragkumar9599&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 B.Tech CSE Graduate (2022–2026)
+
+- 📊 Focused on **Data Analytics, Dashboards, ETL & Visualization**
+
+- 💻 Building projects using **Python, Streamlit, Power BI & MERN Stack**
+
+- 🌱 Currently learning **Machine Learning & Advanced Analytics**
+
+- ⚡ Love solving real-world problems using data
+
+- 📍 Gujarat, India
+
+<br><br><br><br><br><br>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
 <a href="https://www.linkedin.com/in/anurag-kumar-199bb7352/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" />
-</a>
-
-<a href="https://github.com/Anuragkumar9599" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="30" />
-</a>
-
-<a href="https://www.leetcode.com/anuragkumar9599" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="30" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 <a href="mailto:anuragmaurya.cse@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="30" />
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
+
+<a href="https://github.com/Anuragkumar9599" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://leetcode.com/anuragkumar9599/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode" height="50"/>
+</a>
+
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-<p align="left">
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,mongodb,mysql,postgresql,git,github,vscode" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+<br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
-
-<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="100" height="45"/>
-
-</p>
+</div>
 
 ---
 
 # 📌 Featured Projects
 
-## 🚀 AutoDash – Automatic Dashboard System
+<div align="center">
 
-- Automated Data Cleaning & Preprocessing
-- Interactive Dashboards using Streamlit
-- MongoDB Integration
-- Visualization & Reporting System
+| Project | Description |
+|---|---|
+| 🚀 **AutoDash** | Automated Dashboard System with Data Cleaning, Visualization, Streamlit & MongoDB |
+| 🌍 **Tour & Travel Website** | Full Stack MERN Application with Booking Flow & Dynamic UI |
+| 📊 **Data Analytics Projects** | ETL Pipelines, KPI Dashboards & Business Insights using Python |
 
----
-
-## 🌍 Tour and Travel Website
-
-- Full Stack MERN Application
-- Dynamic UI using React.js
-- Booking Flow & Destination Listings
-- REST APIs using Node.js & Express.js
+</div>
 
 ---
 
-# 📜 Certifications
+# 🏆 Certifications
 
-🏆 Oracle Cloud Infrastructure 2025 Certified GenAI Professional  
+<div align="center">
 
-🏆 Deloitte Data Analytics Job Simulation  
+🥇 Oracle Cloud Infrastructure 2025 Certified GenAI Professional  
+🥇 Deloitte Data Analytics Job Simulation  
+🥇 NPTEL Computer Networks & Internet Protocol  
+🥇 Simverse Hackathon 2025 – VIT AP  
+🥇 DataQuest 2026 – IIT Kharagpur  
 
-🏆 NPTEL Computer Networks and Internet Protocol  
-
-🏆 Simverse Hackathon 2025 – VIT AP  
-
-🏆 DataQuest 2026 – IIT Kharagpur  
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anuragkumar9599&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anuragkumar9599&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragkumar9599&theme=tokyonight" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragkumar9599&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Most Used Languages
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkumar9599&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkumar9599&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# ✨ Quote
+# ⚡ Fun Fact
 
-> “Turning data into insights and ideas into reality.”
+<div align="center">
+
+### “Turning raw data into impactful insights.”
+
+</div>
