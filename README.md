@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:anuragmaurya01.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="tel:+917367829599"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:anuragmaurya.cse@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="tel:+917367829599"><img src="https://img.shields.io/badge/+91--7367829599-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
@@ -66,8 +66,8 @@ anurag = {
 `January 2026 – April 2026`
 
 - 🔍 Processed and analysed **3,900+ customer transaction records** to uncover shopping patterns, customer segments, and revenue trends
-- 🧹 Performed data cleaning, missing-value handling, feature engineering, and column standardisation to boost dataset quality
-- 📈 Built interactive **Power BI dashboards** visualising KPIs — revenue trends, product performance, and customer demographics
+- 🧹 Performed data cleaning, missing-value handling, feature engineering & column standardisation to boost dataset quality
+- 📈 Built interactive **Power BI dashboards** visualising KPIs — revenue trends, product performance & customer demographics
 
 ---
 
@@ -78,8 +78,6 @@ anurag = {
 - **React.js** frontend with dynamic routing and booking flow
 - **Node.js + Express.js** REST APIs for backend logic
 - Seamless integration between client and server layers
-
----
 
 ### 📊 AutoDash — Automatic Dashboard *(Python)*
 > Automated pipeline that turns any dataset into an interactive visual report in seconds
@@ -104,8 +102,8 @@ anurag = {
 
 ## 📚 Education
 
-**Bachelor of Technology — Computer Science & Engineering**
-🎓 Parul University, Vadodara, Gujarat · `2022 – 2026`
+**Bachelor of Technology — Computer Science & Engineering**  
+🎓 Parul University, Vadodara, Gujarat · `2022 – 2026`  
 📌 CGPA: **7.68 / 10**
 
 ---
