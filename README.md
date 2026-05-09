@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Anurag Kumar 👋</h1>
 
 <p align="center">
-  <em>Data Analyst · Python Enthusiast · Dashboard Builder</em>
+  <em>Data Analyst · Python Enthusiast · Dashboard Builder</em>   
 </p>
 
 <p align="center">
